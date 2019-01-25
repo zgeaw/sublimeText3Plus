@@ -34,3 +34,5 @@ js最基本的api快查片段
 11、less
 12、less2Css
 Less自动编译成css
+注意 需要npm 全局安装less 1.6.2版本组件
+npm install less@1.6.2 -g
