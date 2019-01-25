@@ -50,3 +50,9 @@ js序列化，能排在下载插件前25位，好的话就不用说了
 ## 12、less2Css
 
 Less自动编译成css
+注意 需要npm 全局安装less 1.6.2版本组件
+Using npm:
+```
+npm install less@1.6.2 -g
+
+```
