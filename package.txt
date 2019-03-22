@@ -37,4 +37,3 @@ Less自动编译成css
 注意 需要npm 全局安装less 1.6.2版本组件
 npm install less@1.6.2 -g
 16、TypeScript
-　　js序列化，能排在下载插件前25位，好的话就不用说了
